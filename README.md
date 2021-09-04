@@ -1,4 +1,4 @@
-# Useful Links for beginners
+# Cloud Deployments
 
 ## Setup LAMP on Linode
 https://www.linode.com/docs/guides/how-to-install-a-lamp-stack-on-ubuntu-20-04/
